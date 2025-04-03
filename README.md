@@ -37,4 +37,4 @@
 
 ## 🐍 Contribuições  
 
-![Snake animation](https://raw.githubusercontent.com/Kadu-Queiroz/output/github-contribution-grid-snake.svg)
+![Snake animation](https://Kadu-Queiroz.github.io/Kadu-Queiroz/github-contribution-grid-snake.svg)
