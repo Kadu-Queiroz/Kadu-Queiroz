@@ -2,18 +2,24 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Atualiza diariamente
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@master
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: Gerar animação da cobrinha
+        uses: Platane/snk@master
         with:
           github_user_name: Kadu-Queiroz
-          svg_out_path: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v3
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - name: Publicar no GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
