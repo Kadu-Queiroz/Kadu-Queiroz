@@ -1,4 +1,4 @@
-<h1 align="center">Fala aí! Eu sou o Kraven 👾 Seja bem-vindo ao meu GitHub!</h1>
+<h1 align="center">Hey there! I'm Kraven 👾 Welcome to my GitHub!</h1>
 
 <div align="center">
   <a href="https://github.com/Kadu-Queiroz">
@@ -9,28 +9,27 @@
 
 ---
 
-## 🧠 Explorando...
+## 🧠 Exploring...
 
-Atualmente navegando pelos mares tempestuosos da:
+Currently sailing through the stormy seas of:
 
-- 🤖 Inteligência Artificial  
-- ⚛️ Computação Quântica  
-- ☕ Cafeína (essencial pra IA funcionar, né?)
+- 🤖 Artificial Intelligence  
+- ⚛️ Quantum Computing  
+- ☕ Caffeine (essential for AI to work, right?)
 
 ---
 
-## 💻 Terminal de Boas-Vindas
+## 💻 Welcome Terminal
 ┌──(kraven㉿github)-[~/quantum]
 └─$ node intro.js
 
-🧠 Loading IA...
-💻 Connecting to Quantum Realm...
+🧠 Loading AI...
+💻 Connecting to the Quantum Realm...
 ✅ Ready to deploy chaos.
-
 
 ---
 
-## 🚀 Stack Principal e Ferramentas
+## 🚀 Main Stack and Tools
 
 <div align="center">
   <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -47,7 +46,7 @@ Atualmente navegando pelos mares tempestuosos da:
 
 ---
 
-## 📫 Contato  
+## 📫 Contact  
 
 <div align="center">
   <a href="mailto:carlosequeiroz@hotmail.com">
@@ -60,11 +59,10 @@ Atualmente navegando pelos mares tempestuosos da:
 
 ---
 
-## 🐍 Contribuições  
+## 🐍 Contributions  
 
 ![Snake animation](https://Kadu-Queiroz.github.io/Kadu-Queiroz/github-contribution-grid-snake.svg)
 
 ---
 
-> "Às vezes, o código trava, o café acaba e o mundo parece um loop infinito... Mas seguimos debugando a existência. - Kraven"
-
+> "Sometimes the code crashes, the coffee runs out, and the world feels like an infinite loop... But we keep debugging existence. - Kraven"
